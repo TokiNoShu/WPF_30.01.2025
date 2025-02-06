@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows;
 using System.Windows.Controls;
-using ConsoleApp26.Classes;
+using WpfApp6.TaskClasses;
 
 namespace WpfApp6.View.Pages
 {
